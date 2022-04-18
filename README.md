@@ -1,5 +1,3 @@
-# myStancodeProject
-## Hello there!
-## This project is my Python-Karel practice
-## my [run video]()
-## Project code is on Github
+### myStancodeProject
+#### Hello there!  This repository holds my Python-Karel practice done during the period of SC001 course.
+#### My [run video]()
